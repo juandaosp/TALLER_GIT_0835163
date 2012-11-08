@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/TALLER_GIT/nbproject/private/
